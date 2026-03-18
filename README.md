@@ -1,31 +1,27 @@
 # FileOutliner
 
-## Introduction
+FileOutliner is a local-first Markdown note app with an outline editor. Notes stay as plain `.md` files in your workspace, so they remain easy to manage with Git or any editor.
 
-FileOutliner is built around two core strengths:
-- Notes are saved as local plain Markdown files, so you can manage and sync them with Git anytime.
-- Notes are created and edited in an outliner (infinite-list) experience inspired by WorkFlowy and Logseq.
+## Why FileOutliner
 
-## FileOutliner vs Logseq vs WorkFlowy
+- Local Markdown files (no database lock-in)
+- Outline-first editing with collapsible node tree
+- File-tree workspace navigation with fast note switching
+- Toggle between `Outliner mode` and `Source code mode`
 
-| Product | Storage | Structure |
-| --- | --- | --- |
-| Logseq | Local Markdown files | Pages + Blocks |
-| WorkFlowy | Cloud-first proprietary storage | infinite-list |
-| FileOutliner | Local Markdown files | file-tree |
+## Current Features
+
+- **File tree:** create/rename/delete/move files and folders, filter `.md`/all files, quick open (`Ctrl/Cmd+P`), auto-focus active file, and multi-tab editing.
+- **Editor:** inline node editing, indent/outdent, drag-and-drop + `Alt+Up/Alt+Down` reorder, zoom into subtree, and image paste to workspace `images/`.
+- **Search & organization:** in-file and workspace text search (`Ctrl/Cmd+F`, `Ctrl/Cmd+Shift+F`), labels from trailing hashtags (for example `#todo`), and file-level bookmarks.
+- **UX:** light/dark theme, font controls, shortcuts help, and export current note as PDF.
 
 ## Demo
 
 ![](/images/demo.png)
 
-## Features
+## Licensing
 
-- File tree panel
-- Labels: "#<label>" at the end of a node will be parsed as a label and show in the "Labels" panel
-- Multi tabs
-- Bookmarks: a file can be bookmarked from the tab or "Files" panel and it will show in the "Bookmarks" panel
-- Export file as PDF
-- Switch between "Outliner mode" and "Source code mode"
-- Font customization
-- Shortcuts
-- Light/Dark theme switch
+- Workspaces with `<= 100` markdown notes do not require a license.
+- Workspaces with `> 100` notes show a non-blocking daily buy/register reminder.
+- Registration is available from the `LIC` button in the right activity bar.
