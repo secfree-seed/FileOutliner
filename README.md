@@ -1,6 +1,8 @@
 # FileOutliner
 
-FileOutliner is a local-first Markdown note app with an outline editor. Notes stay as plain `.md` files in your workspace, so they remain easy to manage with Git or any editor.
+FileOutliner is a local-first Markdown note app with an outliner editor:
+1. Notes are edited in an outliner (infinite-list) experience inspired by WorkFlowy and Logseq.
+2. Notes stay as plain `.md` files in your workspace, so they remain easy to manage with Git or any editor.
 
 ## Why FileOutliner
 
