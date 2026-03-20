@@ -22,8 +22,8 @@ FileOutliner is a local-first Markdown note app with an outliner editor:
 
 ![](/images/demo.png)
 
-## Licensing
+## Price
 
-- Workspaces with `<= 100` markdown notes do not require a license.
-- Workspaces with `> 100` notes show a non-blocking daily buy/register reminder.
-- Registration is available from the `LIC` button in the right activity bar.
+This app is free for everyone.
+
+Tips are never expected but always appreciated: [Buy Me a Coffee](https://buymeacoffee.com/secfree.seed).
