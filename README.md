@@ -33,6 +33,12 @@ Tips are never expected but always appreciated: [Buy Me a Coffee](https://buymea
 FileOutliner sends only one telemetry event, `app_active_daily`, to PostHog when you open the app. This event is used solely to count Daily Active Users (DAU).
 No other data is collected, and your notes are never scanned.
 
+## Feedback
+
+If you encounter any issues while using the app, please open an issue [here](https://github.com/secfree-seed/FileOutliner/issues/new).
+
+For questions, please email `secfree.seed@gmail.com`.
+
 ## FAQ
 
 ### "Apple could not verify xxx is free of malware"
