@@ -30,18 +30,18 @@ Tips are never expected but always appreciated: [Buy Me a Coffee](https://buymea
 
 ## Privacy and Security
 
-This app only sends one event "app_active_daily" to PostHog when you open the app. It's used to count Daily Active Users.
-No other data will be collected. Notes will never be scanned.
+FileOutliner sends only one telemetry event, `app_active_daily`, to PostHog when you open the app. This event is used solely to count Daily Active Users (DAU).
+No other data is collected, and your notes are never scanned.
 
 ## FAQ
 
-### "Apple could not verify xxx is free or malware"
+### "Apple could not verify xxx is free of malware"
 
-You may encountered the below warning when opening the app in MacOS
+You may encounter the warning below when opening the app on macOS.
 
 <img src="./images/mac-open-prevent.png" width="30%" height="50%">
 
-
-To get around it, please follow https://support.apple.com/en-sg/guide/mac-help/mchleab3a043/26/mac/26.3
+To open the app anyway, follow Apple's instructions:
+https://support.apple.com/en-sg/guide/mac-help/mchleab3a043/26/mac/26.3
 
 ![](/images/mac-open.png)
