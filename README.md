@@ -27,3 +27,21 @@ FileOutliner is a local-first Markdown note app with an outliner editor:
 This app is free for everyone.
 
 Tips are never expected but always appreciated: [Buy Me a Coffee](https://buymeacoffee.com/secfree.seed).
+
+## Privacy and Security
+
+This app only sends one event "app_active_daily" to PostHog when you open the app. It's used to count Daily Active Users.
+No other data will be collected. Notes will never be scanned.
+
+## FAQ
+
+### "Apple could not verify xxx is free or malware"
+
+You may encountered the below warning when opening the app in MacOS
+
+<img src="./images/mac-open-prevent.png" width="30%" height="50%">
+
+
+To get around it, please follow https://support.apple.com/en-sg/guide/mac-help/mchleab3a043/26/mac/26.3
+
+![](/images/mac-open.png)
