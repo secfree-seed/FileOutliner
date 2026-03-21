@@ -22,6 +22,10 @@ FileOutliner is a local-first Markdown note app with an outliner editor:
 
 ![](/images/demo.png)
 
+## Download
+
+Please download the latest version from [releases](https://github.com/secfree-seed/FileOutliner/releases).
+
 ## Price
 
 This app is free for everyone.
