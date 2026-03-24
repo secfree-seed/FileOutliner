@@ -11,6 +11,10 @@ FileOutliner is a local-first Markdown note app with an outliner editor:
 - File-tree workspace navigation with fast note switching
 - Toggle between `Outliner mode` and `Source code mode`
 
+## Download
+
+Please download the latest version from [releases](https://github.com/secfree-seed/FileOutliner/releases).
+
 ## Current Features
 
 - **File tree:** create/rename/delete/move files and folders, filter `.md`/all files, quick open (`Ctrl/Cmd+P`), auto-focus active file, and multi-tab editing.
@@ -21,10 +25,6 @@ FileOutliner is a local-first Markdown note app with an outliner editor:
 ## Demo
 
 ![](/images/demo.png)
-
-## Download
-
-Please download the latest version from [releases](https://github.com/secfree-seed/FileOutliner/releases).
 
 ## Price
 
