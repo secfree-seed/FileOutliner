@@ -26,7 +26,7 @@ Please download the latest version from [releases](https://github.com/secfree-se
 
 ![](/images/demo.png)
 
-More demos here: [demo](https://github.com/secfree-seed/FileOutliner/docs/demo.md)
+More demos here: [demo](https://github.com/secfree-seed/FileOutliner/blob/master/docs/demo.md)
 
 ## Price
 
